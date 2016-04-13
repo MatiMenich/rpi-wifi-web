@@ -1,0 +1,24 @@
+{
+  "name": "raspberry_wifi_config_web_client",
+  "version": "1.0.0",
+  "description": "Raspberry Wifi Configuration Web Client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "web",
+    "wifi",
+    "configuration",
+    "client",
+    "interface"
+  ],
+  "author": "Matias Menich",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
